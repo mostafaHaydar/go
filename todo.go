@@ -247,7 +247,7 @@ func getUserOperationNumber() int {
 	}
 }
 
-func main() {
+func maind() {
 
 	for {
 		number := getUserOperationNumber()

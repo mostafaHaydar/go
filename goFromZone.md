@@ -49,14 +49,14 @@ Videos:
 
 Exercices:
 
-- printalphabet | https://public.01-edu.org/subjects/printalphabet
-- printreversealphabet | https://public.01-edu.org/subjects/printreversealphabet
-- prindigits | https://public.01-edu.org/subjects/printdigits
-- isnegative | https://public.01-edu.org/subjects/isnegative
-- printcomb | https://public.01-edu.org/subjects/printcomb
-- printcomb2 | https://public.01-edu.org/subjects/printcomb2
-- printnbr | https://public.01-edu.org/subjects/printnbr
-- printcombn | https://public.01-edu.org/subjects/printcombn
+- printalphabet | https://public.01-edu.org/subjects/printalphabet done
+- printreversealphabet | https://public.01-edu.org/subjects/printreversealphabet done
+- prindigits | https://public.01-edu.org/subjects/printdigits done
+- isnegative | https://public.01-edu.org/subjects/isnegative done
+- printcomb | https://public.01-edu.org/subjects/printcomb done
+- printcomb2 | https://public.01-edu.org/subjects/printcomb2 done
+- printnbr | https://public.01-edu.org/subjects/printnbr done
+- printcombn | https://public.01-edu.org/subjects/printcombn done
 
 ### Quest 3
 
@@ -73,18 +73,18 @@ Videos:
 
 Exercices:
 
-- pointone | https://public.01-edu.org/subjects/pointone
-- ultimatepointone | https://public.01-edu.org/subjects/ultimatepointone
-- divmod | https://public.01-edu.org/subjects/divmod
-- ultimatedivmod | https://public.01-edu.org/subjects/ultimatedivmod
-- printstr | https://public.01-edu.org/subjects/printstr
-- strlen | https://public.01-edu.org/subjects/strlen
-- swap | https://public.01-edu.org/subjects/swap
-- strrev | https://public.01-edu.org/subjects/strrev
-- basicatoi | https://public.01-edu.org/subjects/basicatoi
-- basicatoi2 | https://public.01-edu.org/subjects/basicatoi2
-- atoi | https://public.01-edu.org/subjects/atoi
-- sortintegerable | https://public.01-edu.org/subjects/sortintegertable
+- pointone | https://public.01-edu.org/subjects/pointone done
+- ultimatepointone | https://public.01-edu.org/subjects/ultimatepointone done
+- divmod | https://public.01-edu.org/subjects/divmod done
+- ultimatedivmod | https://public.01-edu.org/subjects/ultimatedivmod done
+- printstr | https://public.01-edu.org/subjects/printstr done
+- strlen | https://public.01-edu.org/subjects/strlen done
+- swap | https://public.01-edu.org/subjects/swap done
+- strrev | https://public.01-edu.org/subjects/strrev done
+- basicatoi | https://public.01-edu.org/subjects/basicatoi done
+- basicatoi2 | https://public.01-edu.org/subjects/basicatoi2 done
+- atoi | https://public.01-edu.org/subjects/atoi done
+- sortintegerable | https://public.01-edu.org/subjects/sortintegertable done
 
 ### Exam 1 (4hours)
 
@@ -110,15 +110,15 @@ Videos:
 
 Exercices:
 
-- iterativefactorial | https://public.01-edu.org/subjects/iterativefactorial
-- recursivefactorial | https://public.01-edu.org/subjects/recursivefactorial
-- iterativepower | https://public.01-edu.org/subjects/iterativepower
-- recursivepower | https://public.01-edu.org/subjects/recursivepower
-- fibonacci | https://public.01-edu.org/subjects/fibonacci ##################
-- sqrt | https://public.01-edu.org/subjects/sqrt
-- isprime | https://public.01-edu.org/subjects/isprime
-- findnextprime | https://public.01-edu.org/subjects/findnextprime
-- eightqueens | https://public.01-edu.org/subjects/eightqueens
+- iterativefactorial | https://public.01-edu.org/subjects/iterativefactorial done
+- recursivefactorial | https://public.01-edu.org/subjects/recursivefactorial done
+- iterativepower | https://public.01-edu.org/subjects/iterativepower done
+- recursivepower | https://public.01-edu.org/subjects/recursivepower done
+- fibonacci | https://public.01-edu.org/subjects/fibonacci done with very problems
+- sqrt | https://public.01-edu.org/subjects/sqrt done
+- isprime | https://public.01-edu.org/subjects/isprime done
+- findnextprime | https://public.01-edu.org/subjects/findnextprime done
+- eightqueens | https://public.01-edu.org/subjects/eightqueens done from wiki
 
 ### Quest 5
 
@@ -132,24 +132,24 @@ Videos:
 
 Exercices:
 
-- firstrune | https://public.01-edu.org/subjects/firstrune   done +++++++++++++++++
-- nrune | https://public.01-edu.org/subjects/nrune done +++++++++++++++++
-- lastrune | https://public.01-edu.org/subjects/lastrune done +++++++++++++++++
-- index | https://public.01-edu.org/subjects/index done ++++++++++++++++++++++
-- compare | https://public.01-edu.org/subjects/compare done +++++++++++++++++
-- toupper | https://public.01-edu.org/subjects/toupper done ++++++++++++++++
-- tolower | https://public.01-edu.org/subjects/tolower done ++++++++++++++++
-- capitalize | https://public.01-edu.org/subjects/capitalize done ++++++++++++++++
-- isalpha | https://public.01-edu.org/subjects/isalpha done ++++++++++++++++++
-- isnumeric | https://public.01-edu.org/subjects/isnumeric done ++++++++++++++++++
-- islower | https://public.01-edu.org/subjects/islower done ++++++++++++++++++
-- isupper | https://public.01-edu.org/subjects/isupper done ++++++++++++++++++
-- isprintable | https://public.01-edu.org/subjects/isprintable done ++++++++++++++++++
-- concat | https://public.01-edu.org/subjects/concat done ++++++++++++++++++
-- basicjoin | https://public.01-edu.org/subjects/basicjoin  done ++++++++++++++++++
-- join | https://public.01-edu.org/subjects/join done ++++++++++++++++++
-- printnbrbase | https://public.01-edu.org/subjects/printnbrbase
-- atoibase | https://public.01-edu.org/subjects/atoibase
+- firstrune | https://public.01-edu.org/subjects/firstrune done
+- nrune | https://public.01-edu.org/subjects/nrune done
+- lastrune | https://public.01-edu.org/subjects/lastrune done
+- index | https://public.01-edu.org/subjects/index done
+- compare | https://public.01-edu.org/subjects/compare done
+- toupper | https://public.01-edu.org/subjects/toupper done
+- tolower | https://public.01-edu.org/subjects/tolower done
+- capitalize | https://public.01-edu.org/subjects/capitalize done
+- isalpha | https://public.01-edu.org/subjects/isalpha done
+- isnumeric | https://public.01-edu.org/subjects/isnumeric done
+- islower | https://public.01-edu.org/subjects/islower done
+- isupper | https://public.01-edu.org/subjects/isupper done
+- isprintable | https://public.01-edu.org/subjects/isprintable done
+- concat | https://public.01-edu.org/subjects/concat done
+- basicjoin | https://public.01-edu.org/subjects/basicjoin done
+- join | https://public.01-edu.org/subjects/join done
+- printnbrbase | https://public.01-edu.org/subjects/printnbrbase i cant understand the problem here
+- atoibase | https://public.01-edu.org/subjects/atoibase the same as above just algo not a syntax
 
 ### Quest 6
 
@@ -163,10 +163,10 @@ Videos:
 
 Exercices:
 
-- printprogramname | https://public.01-edu.org/subjects/printprogramname
-- printparams | https://public.01-edu.org/subjects/printparams
-- revparams | https://public.01-edu.org/subjects/revparams
-- sortparams | https://public.01-edu.org/subjects/sortparams
+- printprogramname | https://public.01-edu.org/subjects/printprogramname just usnig the os package to get data from terminal
+- printparams | https://public.01-edu.org/subjects/printparams just usnig the os package to get data from terminal
+- revparams | https://public.01-edu.org/subjects/revparams just usnig the os package to get data from terminal
+- sortparams | https://public.01-edu.org/subjects/sortparams just usnig the os package to get data from terminal
 
 ### Quest 7
 
@@ -180,13 +180,13 @@ Videos:
 
 Exercices:
 
-- appendrange | https://public.01-edu.org/subjects/apprendrange
-- makerange | https://public.01-edu.org/subjects/makerange
-- concatparams | https://public.01-edu.org/subjects/concatparams
-- splitwhitespaces | https://public.01-edu.org/subjects/splitwhitespaces
-- printwordstables | https://public.01-edu.org/subjects/printwordstables
-- convertbase | https://public.01-edu.org/subjects/converbase
-- split | https://public.01-edu.org/subjects/split
+- appendrange | https://public.01-edu.org/subjects/apprendrange not exists
+- makerange | https://public.01-edu.org/subjects/makerange done
+- concatparams | https://public.01-edu.org/subjects/concatparams done
+- splitwhitespaces | https://public.01-edu.org/subjects/splitwhitespaces done
+- printwordstables | https://public.01-edu.org/subjects/printwordstables done
+- convertbase | https://public.01-edu.org/subjects/converbase not exists
+- split | https://public.01-edu.org/subjects/split done
 
 ### Exam 2 (4hours)
 
@@ -213,11 +213,11 @@ Videos:
 
 Exercices:
 
-- bool | https://public.01-edu.org/subjects/bool
-- point | https://public.01-edu.org/subjects/point
-- displayfile | https://public.01-edu.org/subjects/displayfile
-- cat | https://public.01-edu.org/subjects/cat
-- ztail | https://public.01-edu.org/subjects/ztail
+- bool | https://public.01-edu.org/subjects/bool not exists
+- point | https://public.01-edu.org/subjects/point for another time bro
+- displayfile | https://public.01-edu.org/subjects/displayfile for another time bro
+- cat | https://public.01-edu.org/subjects/cat for another time bro
+- ztail | https://public.01-edu.org/subjects/ztail for another time bro
 
 ### Quest 9
 
@@ -231,14 +231,14 @@ Videos:
 
 Exercices:
 
-- foreach | https://public.01-edu.org/subjects/foreach
-- map | https://public.01-edu.org/subjects/map
-- any | https://public.01-edu.org/subjects/any
-- countif | https://public.01-edu.org/subjects/countif
-- issorted | https://public.01-edu.org/subjects/issorted
-- doop | https://public.01-edu.org/subjects/doop
-- sortwordarr | https://public.01-edu.org/subjects/sortwordarr
-- advancedsortwordarr | https://public.01-edu.org/subjects/advancedsortwordarr
+- foreach | https://public.01-edu.org/subjects/foreach done
+- map | https://public.01-edu.org/subjects/map done
+- any | https://public.01-edu.org/subjects/any is the same as above
+- countif | https://public.01-edu.org/subjects/countif is the same as above
+- issorted | https://public.01-edu.org/subjects/issorted is the same as above
+- doop | https://public.01-edu.org/subjects/doop for another time
+- sortwordarr | https://public.01-edu.org/subjects/sortwordarr done just by using some algo
+- advancedsortwordarr | https://public.01-edu.org/subjects/advancedsortwordarr done just by using some algo
 
 ### Quest 10
 
@@ -248,18 +248,18 @@ Notions: All previously viewed concepts in team work
 
 Exercices:
 
-- rot14 | https://public.01-edu.org/subjects/rot14
-- abort | https://public.01-edu.org/subjects/abort
-- collatzcountdown | https://public.01-edu.org/subjects/collatzcountdown
-- comcheck | https://public.01-edu.org/subjects/comcheck
-- enigma | https://public.01-edu.org/subjects/enigma
-- pilot | https://public.01-edu.org/subjects/pilot
-- fixthemain | https://public.01-edu.org/subjects/fixthemain
-- compact | https://public.01-edu.org/subjects/compact
-- activebits | https://public.01-edu.org/subjects/activebits
-- max | https://public.01-edu.org/subjects/max
-- join | https://public.01-edu.org/subjects/join
-- unmatch | https://public.01-edu.org/subjects/unmatch
+- rot14 | https://public.01-edu.org/subjects/rot14 done
+- abort | https://public.01-edu.org/subjects/abort just algo
+- collatzcountdown | https://public.01-edu.org/subjects/collatzcountdown just algo
+- comcheck | https://public.01-edu.org/subjects/comcheck just algo
+- enigma | https://public.01-edu.org/subjects/enigma just algo
+- pilot | https://public.01-edu.org/subjects/pilot just algo
+- fixthemain | https://public.01-edu.org/subjects/fixthemain just algo
+- compact | https://public.01-edu.org/subjects/compact just algo
+- activebits | https://public.01-edu.org/subjects/activebits just algo
+- max | https://public.01-edu.org/subjects/max just algo
+- join | https://public.01-edu.org/subjects/join just algo
+- unmatch | https://public.01-edu.org/subjects/unmatch just algo
 
 ### Exam 3 (4hours)
 
